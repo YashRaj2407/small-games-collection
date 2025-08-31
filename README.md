@@ -1,2 +1,2 @@
 # small-games-collection
-A collection of small JavaScript games. Currently includes Rock–Paper–Scissors
+A collection of small JavaScript games built with HTML, CSS, and JavaScript.
